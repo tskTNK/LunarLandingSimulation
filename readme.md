@@ -1,7 +1,7 @@
 The code is designed to work with LunarLanderContinuous-v2 from OpenAI Gym.
 Please install OpenAI Gym environment on your computer first and then run this software.
 
-LQR control algorithm is implemented in 'heuristic' function.
+LQT control algorithm is implemented in 'heuristic' function.
 Some supplimental documents can be provided at request.
 
 Note that the code is still experimental, and might have some bugs.
