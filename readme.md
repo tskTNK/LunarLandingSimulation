@@ -2,7 +2,7 @@ The code is designed to work with LunarLanderContinuous-v2 from OpenAI Gym.<br>
 Please install OpenAI Gym environment on your computer first and then run this software.
 <br><br>
 For more details about each algorithm, please read the following article:<br>
-*T. Tanaka, H. Malki and M. Cescon. Linear Quadratic Tracking with Reinforcement Learning Based Reference Trajectory Optimization for the Lunar Hopper in Simulated Environment. IEEE Access https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9645562
+*T. Tanaka, H. Malki and M. Cescon. Linear Quadratic Tracking with Reinforcement Learning Based Reference Trajectory Optimization for the Lunar Hopper in Simulated Environment. IEEE Access* https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9645562
 <br><br>
 LQT control algorithm is implemented in 'heuristic' function in the lunar_hopper_LQT.py.<br>
 <br>
