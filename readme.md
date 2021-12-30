@@ -6,7 +6,7 @@ RL is a reinforcement learning code, and LQT-TRO is a LQT control with learning-
 <br>
 More details can be found in the following video: https://youtu.be/yb7yW_POwcQ<br>
 <br>
-Note1: This code was developed based on an open-source code developed by Clayton Thorrez (https://github.com/cthorrez/ml-fun/tree/master/ddpg). Special thanks to him.<br>
+Note: This code was developed based on an open-source code developed by Clayton Thorrez (https://github.com/cthorrez/ml-fun/tree/master/ddpg). Special thanks to him.<br>
 <br><br>
 Thanks!<br>
 tskTNK
